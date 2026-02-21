@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/liyanaShirin1/liyanaShirin1/3ea01ebaea692fe6753c9fde9fb0fa9cd4b7f820/Contributor%20-%20Hack%20The%20Stack%20(1).jpeg" width="400"/>
+</p>
 <!--
 **liyanaShirin1/liyanaShirin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
